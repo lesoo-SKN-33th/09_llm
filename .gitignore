@@ -19,3 +19,8 @@ __pycache__/
 # dotenv 무시 설정
 .env
 
+*.csv
+*.pdf
+*.mp3
+*.bin
+*요약.md
