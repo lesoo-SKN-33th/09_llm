@@ -24,3 +24,6 @@ __pycache__/
 *.mp3
 *.bin
 *요약.md
+*.json
+*.jsonl
+*.png
